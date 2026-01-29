@@ -1,7 +1,7 @@
 <?php
 
 /**
- * This file for a factory method pattern learning from guru
+ * This file covers the Factory Method pattern, based on Refactoring.Guru
  * https://refactoring.guru/design-patterns/factory-method/php/example#example-1
  */
 
