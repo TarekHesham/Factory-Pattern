@@ -12,4 +12,4 @@ $notificationService->notify('sms',   'Hello, this is a test SMS notification.')
 $notificationService->notify('push',  'Hello, this is a test push notification.');
 
 // Invalid type
-$notificationService->notify('facebook', 'Hello, this is a test push notification.');
+$notificationService->notify('facebook', 'Hello, this is a test facebook notification.');
